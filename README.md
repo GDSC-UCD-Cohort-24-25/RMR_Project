@@ -1,5 +1,6 @@
+# RateMyRestaurant
+
 ## Getting Started
-# ratemyrestaurant
 Download Node.js on Google  
 Download Instructions:  
 Terminal: npx create-next-app@latest  
