@@ -1,6 +1,6 @@
 # RATEMYRESTAURANT
 
-![hippo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Feating-spongebob-squarepants-hungry-12uXi1GXBibALC&psig=AOvVaw0O53NXi7Cqjl0S57zBrqQP&ust=1741385207115000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjtqce79osDFQAAAAAdAAAAABAE)
+![Patrick Eat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpkbGJwMWJ0N3JyaDQxcTdzYmpxN3Z0NzA0ZjZhNHJ1Z3ptNmhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12uXi1GXBibALC/giphy.gif)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
