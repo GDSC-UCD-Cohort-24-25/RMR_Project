@@ -7,7 +7,7 @@ export const restaurants = [
     menuAvailable: true, 
     imageUrl:"https://s3-media0.fl.yelpcdn.com/bphoto/kUK8FogaJHEqHS7LQOiWxQ/348s.jpg",
     menuItems: [{
-      image: "https://.../menu1.png",
+      image: "/images/Honey D Cafe/porkbellyoverrice.jpg",
       title: "Pork Belly Over Rice",
       price: "$16.95",
       calories: "850"
