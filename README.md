@@ -1,3 +1,7 @@
+# RATEMYRESTAURANT
+
+![hippo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Feating-spongebob-squarepants-hungry-12uXi1GXBibALC&psig=AOvVaw0O53NXi7Cqjl0S57zBrqQP&ust=1741385207115000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjtqce79osDFQAAAAAdAAAAABAE)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 # Getting Started
