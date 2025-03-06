@@ -7,7 +7,7 @@ export const restaurants = [
     menuAvailable: true, 
     imageUrl:"https://s3-media0.fl.yelpcdn.com/bphoto/kUK8FogaJHEqHS7LQOiWxQ/348s.jpg",
     menuItems: [{
-      image: "/images/Honey D Cafe/porkbellyoverrice.jpg",
+      image: "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1920,format=auto,quality=50/https://doordash-static.s3.amazonaws.com/media/photosV2/f25d12b8-bfcf-4c84-9fe9-44375c1d833c-retina-large.jpeg",
       title: "Pork Belly Over Rice",
       price: "$16.95",
       calories: "850"
