@@ -23,3 +23,18 @@ export interface MenuItemProps {
 export interface TopPicksProps {
   items: MenuItemProps[];
 }
+
+export interface LogoProps {
+  imageUrl: string;
+}
+
+export interface NavLinkProps {
+  text: string;
+  isButton: boolean;
+  onClick?: () => void;  // Add this
+  className?: string;    // Add this
+}
+
+export interface SignInFormProps {
+  onSubmit: (email: string, password: string) => void;
+}
