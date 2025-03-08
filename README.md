@@ -8,9 +8,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 # Getting Started
 
 ## Installments
-On Ubuntu
+On Linux
 - npm install
 - sudo apt install npm
+- npm install @vis.gl/react-google-maps
 
 First, run the development server:
 
