@@ -29,7 +29,7 @@ export const RestaurantCard: React.FC<RestaurantCardProps> = ({
 }) => {
   return (
     <Link href={`/restaurant/${id}`}> {/* Corrected href */}
-      <div className="flex overflow-hidden flex-col pb-7 w-full rounded-3xl border-2 border-black border-solid bg-neutral-700 cursor-pointer">
+      <div className="flex overflow-hidden flex-col pb-7 w-full rounded-3xl border-2 border-black border-solid bg-neutral-700 cursor-pointer transition-all duration-300 shadow-[0_8px_30px_rgb(0,0,0,0.4)] hover:-translate-y-2 hover:shadow-[0_12px_40px_rgb(0,0,0,0.6)]">
       <div className="w-full h-[280px] overflow-hidden rounded-3xl">
   <img
     loading="lazy"

@@ -2,8 +2,8 @@
 import * as React from "react";
 import { useRouter } from 'next/navigation';
 
-import { NavLink } from "./NavLink";
-import { SignInForm } from "./SignInForm";
+import { NavLink } from "../auth/NavLink";
+import { SignInForm } from "../auth/SignInForm";
 
 export const AuthPage: React.FC = () => {
   const router = useRouter();

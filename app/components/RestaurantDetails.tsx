@@ -3,6 +3,7 @@ import * as React from "react";
 import { TopPicks } from "./TopPicks";
 import { RestaurantCardProps } from "../components/RestaurantCard";
 import { useRouter } from 'next/navigation';
+import { Header } from "./Header";      
 
 interface RestaurantDetailsProps {
   restaurant: RestaurantCardProps;
@@ -12,31 +13,16 @@ export const RestaurantDetails: React.FC<RestaurantDetailsProps> = ({ restaurant
   const router = useRouter();
   return (
     <div className="flex flex-col min-h-screen bg-white">
-      {/* Header with centered navigation */}
-      <header className="w-full flex justify-center py-4">
-        <nav className="flex gap-8 items-center"> {/* Increased gap for better spacing */}
-          <button className="ml-4 text-base text-black hover:text-lime-800 transition-colors">
-            Profile
-          </button>
-          <button className="ml-10 text-base text-black hover:text-lime-800 transition-colors">
-            Most Popular
-          </button>
-          <button className="ml-10 text-base text-black hover:text-lime-800 transition-colors">
-            Search
-          </button>
-        </nav>
-      </header>
+      <Header />
+      
+      <button
+        className="mt-[-20px] ml-[8px] text-base text-black hover:text-lime-800 transition-colors"
+        onClick={() => router.back()}
+      >
+        Back
+      </button>
 
-
-  <button
-    className="mt-1 ml-[8px] text-base text-black hover:text-lime-800 transition-colors"
-    onClick={() => router.back()}
-  >
-    Back
-  </button>
-
-
-  <main className="flex-1 flex flex-col items-center px-4 sm:px-8 lg:px-20">
+      <main className="flex-1 flex flex-col items-center px-4 sm:px-8 lg:px-20">
         {/* Centered title section with dynamic restaurant name */}
         <div className="w-full max-w-4xl text-center py-14">
           <h1 className="nothing-you-could-do-regular text-6xl font-bold tracking-tighter text-black mb-4">
