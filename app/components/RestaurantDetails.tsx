@@ -16,7 +16,7 @@ export const RestaurantDetails: React.FC<RestaurantDetailsProps> = ({ restaurant
       <Header />
       
       <button
-        className="mt-[-20px] ml-[8px] text-base text-black hover:text-lime-800 transition-colors"
+        className="mt-[-10px] ml-[8px] text-base text-black hover:text-lime-800 transition-colors"
         onClick={() => router.back()}
       >
         Back

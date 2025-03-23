@@ -25,7 +25,7 @@ export const RestaurantList: React.FC = () => {
       {restaurants.length > 9 && (
         <button 
           onClick={handleNextPage}
-          className="mt-16 px-12 py-3 text-lg font-semibold text-white bg-black rounded-full transition-all duration-300 hover:bg-gray-800 hover:-translate-y-1 hover:shadow-xl"
+          className="mt-20 px-12 py-3 text-lg font-semibold text-white bg-black rounded-full transition-all duration-300 hover:bg-gray-800 hover:-translate-y-1 hover:shadow-xl"
         >
           Next
         </button>

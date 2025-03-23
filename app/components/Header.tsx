@@ -21,7 +21,7 @@ export const Header: React.FC = () => {
               key={index} 
               {...link}
               onClick={() => router.push(link.path)}
-              className={`${index === 1 ? "ml-10" : ""} ${index === 0 ? "ml-[40px]" : ""}`}
+              className={`hover:text-lime-800 transition-colors ${index === 1 ? "ml-10" : ""} ${index === 0 ? "ml-[40px]" : ""}`}
             />
           ))}
         </nav>
