@@ -7,6 +7,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Getting Started
 
+## Requirements
+- A google API Key
+
 ## Installments
 On Linux
 - npm install
