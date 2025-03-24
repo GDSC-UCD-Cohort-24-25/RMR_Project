@@ -3,7 +3,8 @@ import * as React from "react";
 import { TopPicks } from "./TopPicks";
 import { RestaurantCardProps } from "../components/RestaurantCard";
 import { useRouter } from 'next/navigation';
-import { Header } from "./Header";      
+import { Header } from "./Header";    
+import Map from '../components/MapComponent';
 
 interface RestaurantDetailsProps {
   restaurant: RestaurantCardProps;
@@ -41,6 +42,14 @@ export const RestaurantDetails: React.FC<RestaurantDetailsProps> = ({ restaurant
           </div>
           <div className="flex shrink-0 mt-2 rounded-3xl border-2 border-black border-solid bg-neutral-700 h-[470px] w-[500px] max-md:w-full" />
         </aside>
+      </div>
+
+      <div>
+              {/* Add the MapComponent */}
+      <div className="mt-8 w-full max-w-4xl mx-auto">
+        <h2 className="text-2xl font-bold text-center mb-4">Location</h2>
+        <Map center={{ lat: 40.7128, lng: -74.006 }} zoom={10} />
+      </div>
       </div>
     </div>
   );
