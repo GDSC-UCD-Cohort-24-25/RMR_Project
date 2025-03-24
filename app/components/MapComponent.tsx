@@ -28,7 +28,7 @@ const Map = ({ center, zoom } : MapProps) => {
     return (
         // Loadscript loads the Google Maps JavaScript API
         // MarkerF places a marker on the map
-        <LoadScript googleMapsApiKey = {"AIzaSyCSvZmGKlv9reCpsacvBhxhOrN7eMzOGCA"}>
+        <LoadScript googleMapsApiKey = {"Place API Key here"}>
             <GoogleMap // Renders the actual map
                 mapContainerStyle={containerStyle} // Dimensions of the map
                 center={center}
