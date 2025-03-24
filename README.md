@@ -11,7 +11,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 On Linux
 - npm install
 - sudo apt install npm
-- npm install @vis.gl/react-google-maps
+- npm install @vis.gl/react-google-maps (for vite + react)
+  - or try npm install @react-google-maps/api (for react)
 
 First, run the development server:
 
