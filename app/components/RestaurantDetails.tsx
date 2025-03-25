@@ -1,5 +1,6 @@
 "use client";
 import * as React from "react";
+import { useState, useEffect, useRef } from "react";
 import { TopPicks } from "./TopPicks";
 import { RestaurantCardProps } from "../components/RestaurantCard";
 import { useRouter } from 'next/navigation';
@@ -12,6 +13,16 @@ interface RestaurantDetailsProps {
 
 export const RestaurantDetails: React.FC<RestaurantDetailsProps> = ({ restaurant }) => {
   const router = useRouter();
+  const menuRef = useRef<HTMLDivElement>(null);
+  const [menuHeight, setMenuHeight] = useState<number | undefined>(undefined);
+
+  // Get the height of the Top Picks section
+  useEffect(() => {
+    if (menuRef.current) {
+      setMenuHeight(menuRef.current.clientHeight);
+    }
+  }, [restaurant.menuItems]);
+
   return (
     <div className="flex flex-col min-h-screen bg-white">
       <Header />
@@ -33,23 +44,20 @@ export const RestaurantDetails: React.FC<RestaurantDetailsProps> = ({ restaurant
         </div>
       </main>
 
-      {/* Display dynamic menu items if available */}
+      {/* Display dynamic menu items and map side by side */}
       <div className="flex flex-wrap gap-2 justify-between self-center mt-1 ml-1 w-full max-w-[1296px] max-md:max-w-full">
-        <TopPicks items={restaurant.menuItems || []} />
-        <aside className="flex overflow-hidden flex-col self-end pt-3.5 mt-9 text-xl leading-tight text-black whitespace-nowrap rounded-3xl border-2 border-black border-solid bg-stone-950 max-md:max-w-full">
-          <div className="overflow-hidden self-center px-14 py-2 max-w-full bg-white rounded-3xl border-2 border-solid border-zinc-400 border-opacity-0 w-[183px] max-md:px-5">
-            Reviews
-          </div>
-          <div className="flex shrink-0 mt-2 rounded-3xl border-2 border-black border-solid bg-neutral-700 h-[470px] w-[500px] max-md:w-full" />
+        {/* Left side - Menu items with smaller or larger width and added shadow */}
+        <div ref={menuRef} className="w-full md:w-3/5 lg:w-2/5 filter drop-shadow-lg"> 
+          <TopPicks items={restaurant.menuItems || []} />
+        </div>
+        
+        {/* Right side - Map with reduced height and added shadow */}
+        <aside 
+          className="w-full md:w-2/5 lg:w-[500px] flex flex-col self-center mt-9 rounded-3xl border-2 border-black border-solid overflow-hidden shadow-lg max-md:max-w-full"
+          style={{ height: menuHeight ? `${menuHeight * 0.6}px` : "auto" }}
+        >
+          <Map center={{ lat: 40.7128, lng: -74.006 }} zoom={14} />
         </aside>
-      </div>
-
-      <div>
-              {/* Add the MapComponent */}
-      <div className="mt-8 w-full max-w-4xl mx-auto">
-        <h2 className="text-2xl font-bold text-center mb-4">Location</h2>
-        <Map center={{ lat: 40.7128, lng: -74.006 }} zoom={10} />
-      </div>
       </div>
     </div>
   );
