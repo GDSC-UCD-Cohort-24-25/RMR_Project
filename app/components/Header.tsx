@@ -9,7 +9,8 @@ export const Header: React.FC = () => {
   const navLinks = [
     { text: "Profile", isButton: false, path: "/Profile" },
     { text: "Most Popular", isButton: false, path: "/mostpopular"}, // This should match the folder name
-    { text: "Sign-in", isButton: true, path: "/signin" }
+    { text: "Sign-in", isButton: true, path: "/signin" },
+    { text: "Contact Us", isButton: true, path: "/contact_us"}
   ];
 
   return (
