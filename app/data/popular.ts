@@ -1,0 +1,80 @@
+export const popularRestaurants = [
+  {
+    id: 1,
+    name: "La Trattoria",
+    rating: 4.8,
+    reviews: 357,
+    description: "Authentic Italian cuisine with handmade pasta and wood-fired pizzas",
+    cuisine: "Italian",
+    priceRange: "$$$",
+    address: "123 Main St, Anytown, CA",
+    imageUrl: "/images/restaurants/italian.jpg", 
+    popularDishes: ["Margherita Pizza", "Fettuccine Alfredo", "Tiramisu"],
+    tags: ["Italian", "Pasta", "Pizza"]
+  },
+  {
+    id: 2,
+    name: "Sushi Palace",
+    rating: 4.7,
+    reviews: 289,
+    description: "Premium sushi and Japanese delicacies prepared by master chefs",
+    cuisine: "Japanese",
+    priceRange: "$$$$",
+    address: "456 Ocean Ave, Bayview, CA",
+    imageUrl: "/images/restaurants/sushi.jpg",
+    popularDishes: ["Dragon Roll", "Omakase Selection", "Wagyu Beef"],
+    tags: ["Japanese", "Sushi", "Seafood"]
+  },
+  {
+    id: 3,
+    name: "Burger Joint",
+    rating: 4.6,
+    reviews: 412,
+    description: "Gourmet burgers made with locally sourced beef and fresh ingredients",
+    cuisine: "American",
+    priceRange: "$$",
+    address: "789 Maple Dr, Downtown, CA",
+    imageUrl: "/images/restaurants/burger.jpg",
+    popularDishes: ["Classic Cheeseburger", "Truffle Fries", "Milkshakes"],
+    tags: ["American", "Burgers", "Fast Casual"]
+  },
+  {
+    id: 4,
+    name: "Spice Garden",
+    rating: 4.5,
+    reviews: 325,
+    description: "Authentic Indian cuisine with rich flavors and aromatic spices",
+    cuisine: "Indian",
+    priceRange: "$$",
+    address: "101 Spice Blvd, Hillcrest, CA",
+    imageUrl: "/images/restaurants/indian.jpg",
+    popularDishes: ["Butter Chicken", "Garlic Naan", "Mango Lassi"],
+    tags: ["Indian", "Spicy", "Vegetarian-friendly"]
+  },
+  {
+    id: 5,
+    name: "Taco Fiesta",
+    rating: 4.4,
+    reviews: 278,
+    description: "Traditional Mexican street food with a modern twist",
+    cuisine: "Mexican",
+    priceRange: "$$",
+    address: "567 Salsa St, Westside, CA",
+    imageUrl: "/images/restaurants/mexican.jpg",
+    popularDishes: ["Street Tacos", "Queso Fundido", "Churros"],
+    tags: ["Mexican", "Tacos", "Margaritas"]
+  },
+  {
+    id: 6,
+    name: "Golden Dragon",
+    rating: 4.3,
+    reviews: 341,
+    description: "Authentic Chinese cuisine featuring dim sum and Sichuan specialties",
+    cuisine: "Chinese",
+    priceRange: "$$",
+    address: "888 Lucky Ave, Chinatown, CA",
+    imageUrl: "/images/restaurants/chinese.jpg",
+    popularDishes: ["Peking Duck", "Dim Sum Platter", "Kung Pao Chicken"],
+    tags: ["Chinese", "Dim Sum", "Sichuan"]
+  }
+];

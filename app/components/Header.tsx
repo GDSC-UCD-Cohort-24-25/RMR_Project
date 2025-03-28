@@ -7,8 +7,8 @@ export const Header: React.FC = () => {
   const router = useRouter();
 
   const navLinks = [
-    { text: "Profile", isButton: false, path: "/profile" },
-    { text: "Most Popular", isButton: false, path: "/popular"},
+    { text: "Profile", isButton: false, path: "/Profile" },
+    { text: "Most Popular", isButton: false, path: "/mostpopular"}, // This should match the folder name
     { text: "Sign-in", isButton: true, path: "/signin" }
   ];
 
