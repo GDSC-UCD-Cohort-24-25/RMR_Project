@@ -6,7 +6,7 @@ import { NavButton } from '../components/NavButton';
 import profileData from '../data/profileData'; // Import profile data
 
 const navLinks = [
-  { text: "Profile", isButton: false, path: "/Profile" }, // Match exact case
+  { text: "Profile", isButton: false, path: "/profile" }, // lowercase path
   { text: "Most Popular", isButton: false, path: "/popular"},
   { text: "Sign-in", isButton: true, path: "/signin" }
 ];

@@ -11,7 +11,7 @@ export const Header: React.FC = () => {
       isButton: true, 
       path: "/Main",
       className: "font-bold text-lg bg-lime-600 text-white px-4 py-2 rounded-lg hover:bg-lime-700 transition-colors"}, 
-    { text: "Profile", isButton: false, path: "/Profile" },
+    { text: "Profile", isButton: false, path: "/profile" },
     { text: "Most Popular", isButton: false, path: "/mostpopular"}, // This should match the folder name
     { text: "Sign-in", isButton: false, path: "/signin" },
     { text: "Contact Us", isButton: false, path: "/contact_us"}
