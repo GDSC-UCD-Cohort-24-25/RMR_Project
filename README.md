@@ -1,4 +1,4 @@
-# RateMyRestaurant
+s# RateMyRestaurant
 Your one stop local spot for a culmination of all eateries located in Davis, California.
 
 ![Patrick Eat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpkbGJwMWJ0N3JyaDQxcTdzYmpxN3Z0NzA0ZjZhNHJ1Z3ptNmhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12uXi1GXBibALC/giphy.gif)
@@ -14,8 +14,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 On Linux
 - npm install
 - sudo apt install npm
-- npm install @vis.gl/react-google-maps (for vite + react)
+- npm install @vis.gl/react-google-maps (google maps for vite + react)
   - or try npm install @react-google-maps/api (for react)
+- npm install react-icons (for search bar)
 
 # Deployment
 First, run the development server:
