@@ -1,0 +1,652 @@
+name,address,Google Map Link,rating,type,menuAvailable,imageUrl,id,,
+ITea,"236 A St, Davis, CA 95616","https://www.google.com/maps/place/iTea/@38.5435821,-121.7469531,19.8z/data=!4m6!3m5!1s0x8085296d2050a9c5:0x290b45bb43cc0262!8m2!3d38.54341!4d-121.7467315!16s%2Fg%2F11fl9j_xz1?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D",,Tea House,TRUE,,1,,{
+RareTea,"207 3rd St #110, Davis, CA 95616","https://www.google.com/maps/place/RareTea/@38.543791,-121.746744,17z/data=!3m1!4b1!4m6!3m5!1s0x80852949b215aad5:0x56315e3f7a112930!8m2!3d38.543791!4d-121.746744!16s%2Fg%2F11tdczzk6k?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D",https://lh3.googleusercontent.com/p/AF1QipNLu8WjZy4SgM1z7ha75KEI9VvoUZOC4l5n5UGB=s1360-w1360-h1020,Tea House,TRUE,,2,,"name: 'ITea',"
+Cajun Feast,"206 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Cajun+Feast/@38.5434471,-121.7492222,17z/data=!3m1!4b1!4m6!3m5!1s0x808529a99c39d37b:0x779923d89bb8a54b!8m2!3d38.5434429!4d-121.7466473!16s%2Fg%2F11fqxyjvk1?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://lh3.googleusercontent.com/p/AF1QipOQXn123m-ZZs7AqYHpylYIP7oIAl6xWaoXVD5F=s680-w680-h510,,TRUE,,3,,"address: '236 A St, Davis, CA 95616',"
+Guads Tacos & Beer,"231 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Guads+Tacos+%26+Beer/@38.5439393,-121.7484042,16z/data=!3m1!4b1!4m6!3m5!1s0x8085294f18b14383:0xdf7b87faad59bb57!8m2!3d38.5439351!4d-121.7458293!16s%2Fg%2F11lm4zh91n?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://lh3.googleusercontent.com/p/AF1QipM2lRcpJuh8qA7uBjZo9rqjFIVlZEt0LFTnavc4=s1360-w1360-h1020,Taco Restaurant,TRUE,,4,,"Google Map Link': 'https://www.google.com/maps/place/iTea/@38.5435821,-121.7469531,19.8z/data=!4m6!3m5!1s0x8085296d2050a9c5:0x290b45bb43cc0262!8m2!3d38.54341!4d-121.7467315!16s%2Fg%2F11fl9j_xz1?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D',"
+Ali Baba,"220 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Ali+Baba/@38.5435547,-121.7489333,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290bbda4fc0b:0xed7bd24a67117a87!8m2!3d38.5435505!4d-121.7463584!16s%2Fg%2F1tp08b8s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://lh3.googleusercontent.com/p/AF1QipP7QpNsCS7hD2wZYz8mns5drnE7d7jWZvkP9SJ2=s1360-w1360-h1020,Mediterranean Restaurant,TRUE,,5,,"rating: '',"
+Sam's Restaurant,"301 B St, Davis, CA 95616","https://www.google.com/maps/place/Sam's+Restaurant/@38.544051,-121.7450647,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290ba1224d55:0x92f57a6062372ae9!8m2!3d38.544051!4d-121.7450647!16s%2Fm%2F02h5f4w?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://localwiki.org/media/cache/eb/8e/eb8ed21a4b07b4d17ded5cafe6a05df9.jpg,Mediterranean Restaurant,TRUE,,6,,type: 'Tea House'
+Pizza & Pints,"236 B St, Davis, CA 95616","https://www.google.com/maps/place/Pizza+%26+Pints/@38.5438055,-121.7469253,16z/data=!3m1!4b1!4m6!3m5!1s0x8085299783ffa705:0x2047ba0adfaf82ec!8m2!3d38.5438013!4d-121.7443504!16s%2Fg%2F11hz0rkm36?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://i1.wp.com/www.dailydemocrat.com/wp-content/uploads/2019/10/PIZZA2.jpg?fit=620%2C9999px&ssl=1,Pizza Restaurant,TRUE,,7,,"},"
+Crepeville Breakfast,"330 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Crepeville/@38.5439539,-121.7464604,16z/data=!3m1!4b1!4m6!3m5!1s0x8085290b6a688f2d:0xd7a81b8d31f3985a!8m2!3d38.5439497!4d-121.7438855!16s%2Fg%2F1tdw3q1r?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://images.squarespace-cdn.com/content/v1/6261ffda39106c77e2410863/1656718145492-SMS4HDUOEC57EFN0W100/DSC01039.jpg,Breakfast Restaurant,TRUE,,8,,{
+Yolo Berry Yogurt,"316 C St, Davis, CA 95616","https://www.google.com/maps/place/Yolo+Berry+Yogurt/@38.5447787,-121.7461071,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290b3c0b5e6d:0x3ef05664bd79bc4c!8m2!3d38.5447745!4d-121.7435322!16s%2Fg%2F1wg5y6zk?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://theaggie.org/wp-content/uploads/2020/05/boddessert_fe_TREVOR_GOODMAN.jpg,Frozen Yogurt Shop,TRUE,,9,,"name: 'RareTea',"
+Burgers and Brew,"403 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Burgers+and+Brew/@38.5444041,-121.7599618,15z/data=!4m10!1m2!2m1!1sburgers+and+brew!3m6!1s0x8085290b3f42d4bb:0x82266043013da33f!8m2!3d38.5444047!4d-121.7434823!15sChBidXJnZXJzIGFuZCBicmV3IgOIAQFaEiIQYnVyZ2VycyBhbmQgYnJld5IBFGhhbWJ1cmdlcl9yZXN0YXVyYW504AEA!16s%2Fg%2F1hc1vbw19?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://theaggie.org/wp-content/uploads/2021/05/bodburger_fe_MARKUS_KAEPPELI-1.jpg,Burgers and Brew,TRUE,,10,,"address: '207 3rd St #110, Davis, CA 95616',"
+MAYA'S Authentic Mexican Food,"237 D St, Davis, CA 95616","https://www.google.com/maps/place/MAYA%E2%80%99S+Authentic+Mexican+Food/@38.5441987,-121.7426418,17z/data=!3m1!4b1!4m6!3m5!1s0x808529b568b766b1:0x18eeda5f41214f6!8m2!3d38.5441987!4d-121.7426418!16s%2Fg%2F11v_42d2p6?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",https://theaggie.org/wp-content/uploads/2025/01/mayasmexican_ar_SACHA_CHICKERING-696x400.jpg,Mexican Restaurant,TRUE,,11,,"Google Map Link': 'https://www.google.com/maps/place/RareTea/@38.543791,-121.746744,17z/data=!3m1!4b1!4m6!3m5!1s0x80852949b215aad5:0x56315e3f7a112930!8m2!3d38.543791!4d-121.746744!16s%2Fg%2F11tdczzk6k?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D',"
+Cafe Bernardo,"234 D St, Davis, CA 95616","https://www.google.com/maps/place/Cafe+Bernardo/@38.5442611,-122.2695201,10z/data=!3m1!5s0x80852974b281ea7d:0xb174f6cdd8ed8600!4m10!1m2!2m1!1sCafe+bernardo!3m6!1s0x80852974ad96840f:0x61b7aae4f5face07!8m2!3d38.5442611!4d-121.7421764!15sCg1DYWZlIGJlcm5hcmRvIgOIAQFaDyINY2FmZSBiZXJuYXJkb5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F1tw_ngnj?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,12,,"rating: '',"
+The Mustard Seed,"222 D St #11, Davis, CA 95616","https://www.google.com/maps/place/The+Mustard+Seed/@38.543803,-121.742096,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974abd4307b:0x768e8df86c06f3a!8m2!3d38.543803!4d-121.742096!16s%2Fg%2F1tgnxfpy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Californian Restaurant,TRUE,,13,,type: 'Tea House'
+Hunan Bar & Restaurant,"207 D St, Davis, CA 95616","https://www.google.com/maps/place/Hunan+Bar+%26+Restaurant/@38.5433806,-121.7450075,17z/data=!3m1!4b1!4m6!3m5!1s0x809ad6c93004df11:0x85d9755acc3f6e0d!8m2!3d38.5433764!4d-121.7424326!16s%2Fg%2F1thhkq_6?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chinese Restaurant,TRUE,,14,,"},"
+Peet's Coffee,"231 E St, Davis, CA 95616","https://www.google.com/maps/place/Peet's+Coffee/@38.5441876,-121.7746123,14z/data=!4m10!1m2!2m1!1speet's+coffee!3m6!1s0x80852974a5bf0717:0x8c62bde28bd7d835!8m2!3d38.5441876!4d-121.7416533!15sCg1wZWV0J3MgY29mZmVlIgOIAQFaDyINcGVldCdzIGNvZmZlZZIBC2NvZmZlZV9zaG9w4AEA!16s%2Fg%2F1tp_6m9s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Coffee Shop,TRUE,,15,,{
+Chipotle Mexican Grill,"227 E St Ste 1, Davis, CA 95616","https://www.google.com/maps/place/Chipotle+Mexican+Grill/@38.5440526,-121.7415034,17z/data=!3m1!4b1!4m6!3m5!1s0x808529735e834de5:0x80e9e5db64a12406!8m2!3d38.5440526!4d-121.7415034!16s%2Fg%2F1tfnytj4?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Mexican Restaurant,TRUE,,16,,"name: 'Cajun Feast',"
+Raising Cane's Chicken Fingers,"207 E St, Davis, CA 95616","https://www.google.com/maps/place/Raising+Cane's+Chicken+Fingers/@38.5435075,-121.7440425,17z/data=!3m2!4b1!5s0x808529735bc4e8cf:0x9fc9c638ad86c94f!4m6!3m5!1s0x808529e305f489d5:0xac63d35673197ef6!8m2!3d38.5435033!4d-121.7414676!16s%2Fg%2F11rdy619g1?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Fast Food Restaurant,TRUE,,17,,"address: '206 3rd St, Davis, CA 95616',"
+Philz Coffee,"521 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Philz+Coffee/@38.543378,-121.7413272,17z/data=!3m1!4b1!4m6!3m5!1s0x808529735b61f2f5:0x76c5f6325eca0764!8m2!3d38.543378!4d-121.7413272!16s%2Fg%2F11f11r9bzg?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Coffee Shop,TRUE,,18,,"Google Map Link': 'https://www.google.com/maps/place/Cajun+Feast/@38.5434471,-121.7492222,17z/data=!3m1!4b1!4m6!3m5!1s0x808529a99c39d37b:0x779923d89bb8a54b!8m2!3d38.5434429!4d-121.7466473!16s%2Fg%2F11fqxyjvk1?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Insomnia Cookies,"202 E St, Davis, CA 95616","https://www.google.com/maps/place/Insomnia+Cookies/@38.5435613,-121.7435549,17z/data=!3m1!4b1!4m6!3m5!1s0x808529cb45e2a84b:0xeaacbc605daf907c!8m2!3d38.5435571!4d-121.74098!16s%2Fg%2F11gsmn13nf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Dessert Shop,TRUE,,19,,"rating: '',"
+Sophia's Thai Kitchen,"129 E St, Davis, CA 95616","https://www.google.com/maps/place/Sophia's+Thai+Kitchen/@38.5427503,-121.7439371,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297317b9e913:0x6c9611f6637ea244!8m2!3d38.5427461!4d-121.7413622!16s%2Fg%2F11b77fxh9z?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Thai Restaurant,TRUE,,20,,type: ''
+Dumpling House,"129 E St, Davis, CA 95616","https://www.google.com/maps/place/Dumpling+House/@38.5426658,-121.7437063,17z/data=!3m1!4b1!4m6!3m5!1s0x80852955e575e129:0x835ee91f00c174cd!8m2!3d38.5426616!4d-121.7411314!16s%2Fg%2F11rpcmp0bm?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chinese Restaurant,TRUE,,21,,"},"
+Thai Canteen,"117 E St, Davis, CA 95616","https://www.google.com/maps/place/Thai+Canteen/@38.5425022,-121.7436441,17z/data=!3m2!4b1!5s0x808529733c2df24d:0x6e17a5e51b3d1837!4m6!3m5!1s0x808529733e64b817:0xc7891fb577fc52f4!8m2!3d38.542498!4d-121.7410692!16s%2Fg%2F1tf81twf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Thai Restaurant,TRUE,,22,,{
+Mikuni,"500 1st St #19, Davis, CA 95616","https://www.google.com/maps/place/Mikuni/@38.5416389,-121.7438404,17z/data=!3m1!4b1!4m6!3m5!1s0x80852972dd12ed59:0x9a403cc20265f10b!8m2!3d38.5416347!4d-121.7412655!16s%2Fg%2F1tmz74jz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Sushi Restaurant,TRUE,,23,,"name: 'Guads Tacos & Beer',"
+Shabu Shack,"500 1st St Suite 15, Davis, CA 95616","https://www.google.com/maps/place/Shabu+Shack/@38.5415528,-121.7437136,17z/data=!3m1!4b1!4m6!3m5!1s0x808529dcd5f969cb:0x828402c9a60453bc!8m2!3d38.5415486!4d-121.7411387!16s%2Fg%2F11vygdbvnv?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,24,,"address: '231 3rd St, Davis, CA 95616',"
+Local Kitchens,"500 1st St Ste 13a, Davis, CA 95616","https://www.google.com/maps/place/Local+Kitchens/@38.5414988,-121.74359,17z/data=!3m1!4b1!4m6!3m5!1s0x808529a828610347:0x38e3c70ebab47253!8m2!3d38.5414946!4d-121.7410151!16s%2Fg%2F11q4gdvdpz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,25,,"Google Map Link': 'https://www.google.com/maps/place/Guads+Tacos+%26+Beer/@38.5439393,-121.7484042,16z/data=!3m1!4b1!4m6!3m5!1s0x8085294f18b14383:0xdf7b87faad59bb57!8m2!3d38.5439351!4d-121.7458293!16s%2Fg%2F11lm4zh91n?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+My Burma,"500 1st St #11, Davis, CA 95616","https://www.google.com/maps/place/My+Burma/@38.5414338,-121.741013,16z/data=!3m1!4b1!4m6!3m5!1s0x808529a9e49ad741:0xb8750ec47c9590af!8m2!3d38.5414338!4d-121.741013!16s%2Fg%2F11lm4yn4jy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,26,,"rating: '',"
+Bruxie,"500 1st St, Davis, CA 95616","https://www.google.com/maps/place/Bruxie/@38.5413905,-121.7408136,16z/data=!3m1!4b1!4m6!3m5!1s0x808529001e3fec35:0x2b5c9820183cde97!8m2!3d38.5413905!4d-121.7408136!16s%2Fg%2F11vydwwdgy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chicken Restaurant,TRUE,,27,,type: 'Taco Restaurant'
+TOMO Tea House,"500 1st St Suite 5, Davis, CA 95616","https://www.google.com/maps/place/TOMO+Tea+House/@38.541376,-121.7432148,17z/data=!3m1!4b1!4m6!3m5!1s0x8085298f1842b793:0xc191869cd4e952ae!8m2!3d38.5413718!4d-121.7406399!16s%2Fg%2F11l2pj6wcb?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bubble Tea Store,TRUE,,28,,"},"
+Nopalito Taqueria at Local Kitchens,"500 1st St Ste 13a, Davis, CA 95616","https://www.google.com/maps/place/Nopalito+Taqueria+at+Local+Kitchens/@38.5410913,-121.7431102,17z/data=!3m1!4b1!4m6!3m5!1s0x808529af6b397ec9:0xbb705bc37f1772ce!8m2!3d38.5410871!4d-121.7405353!16s%2Fg%2F11vhqvbhmj?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Mexican Restaurant,TRUE,,29,,{
+Honey D Cafe,"213 E St, Davis, CA 95616","https://www.google.com/maps/place/Honey+D+Cafe/@38.5436639,-121.7439192,17z/data=!3m1!4b1!4m6!3m5!1s0x808529f2e6eb7bdf:0xda14a27915937804!8m2!3d38.5436597!4d-121.7413443!16s%2Fg%2F11h6450872?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,30,,"name: 'Ali Baba',"
+Cloud Forest Cafe,"222 D St, Davis, CA 95616","https://www.google.com/maps/place/Cloud+Forest+Cafe/@38.5439495,-121.744811,17z/data=!3m1!4b1!4m6!3m5!1s0x8085283ffa526dab:0xe9a15dfb84d5fc41!8m2!3d38.5439453!4d-121.7422361!16s%2Fg%2F1td4dscw?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Coffee Shop,TRUE,,31,,"address: '220 3rd St, Davis, CA 95616',"
+Handheld Sweet and Savory Pies,"Odd Fellows Hall, 415 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Handheld+Sweet+and+Savory+Pies/@38.5432054,-121.7452299,17z/data=!3m1!4b1!4m6!3m5!1s0x808529b51f805099:0xd7770e18cd5751fa!8m2!3d38.5432012!4d-121.742655!16s%2Fg%2F11rf48bnl5?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,32,,"Google Map Link': 'https://www.google.com/maps/place/Ali+Baba/@38.5435547,-121.7489333,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290bbda4fc0b:0xed7bd24a67117a87!8m2!3d38.5435505!4d-121.7463584!16s%2Fg%2F1tp08b8s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Aggie Yogurt & Bingsu,"425 2nd St a, Davis, CA 95616","https://www.google.com/maps/place/Aggie+Yogurt+%26+Bingsu/@38.5432388,-121.7451251,16z/data=!3m1!4b1!4m6!3m5!1s0x808529002ad2f1cb:0x879b0def2b6791be!8m2!3d38.5432346!4d-121.7425502!16s%2Fg%2F11w59gtvdl?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Frozen Yogurt Shop,TRUE,,33,,"rating: '',"
+Taffach Ethiopian Restaurant,"113 D St, Davis, CA 95616","https://www.google.com/maps/place/Taffach+Ethiopian+Restaurant+(We+are+not+open+for+business+yet)/@38.5422053,-121.744759,17z/data=!3m2!4b1!5s0x80852973346ecb67:0x5e153e3d65a68e6c!4m6!3m5!1s0x80852974687c35a7:0x5f646096518a1717!8m2!3d38.5422011!4d-121.7421841!16s%2Fg%2F11y4tqd2x6?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Ethiopian Restaurant,TRUE,,34,,type: 'Mediterranean Restaurant'
+Sweet and Shavery,"210 E St, Davis, CA 95616","https://www.google.com/maps/place/Sweet+and+Shavery/@38.543683,-121.7435076,17z/data=!3m1!4b1!4m6!3m5!1s0x808529735dfe4813:0x699a4ca531170c83!8m2!3d38.5436788!4d-121.7409327!16s%2Fg%2F11b5qt1b1b?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Dessert Shop,TRUE,,35,,"},"
+Nick The Greek,"206 E St, Davis, CA 95616","https://www.google.com/maps/place/Nick+The+Greek/@38.5436374,-121.7436079,17z/data=!3m1!4b1!4m6!3m5!1s0x808529fa734a4699:0x47bf14c60078d219!8m2!3d38.5436332!4d-121.741033!16s%2Fg%2F11pf1v8d6s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Greek Restaurant,TRUE,,36,,{
+El Patio Fresh Mexican Grill,"200 E St, Davis, CA 95616","https://www.google.com/maps/place/El+Patio+Fresh+Mexican+Grill/@38.5434316,-121.7434999,17z/data=!3m1!4b1!4m6!3m5!1s0x808529af9c137887:0x50abd8fbdd16f813!8m2!3d38.5434274!4d-121.740925!16s%2Fg%2F11h53xmx52?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Mexican Restaurant,TRUE,,37,,"name: ""Sam's Restaurant"","
+Davis Wine Bar,"611 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Davis+Wine+Bar/@38.5434375,-121.7432331,16z/data=!3m1!4b1!4m6!3m5!1s0x808529450bcd3e85:0x37eec44f7f567800!8m2!3d38.5434333!4d-121.7406582!16s%2Fg%2F11fn64hcd7?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bar,TRUE,,38,,"address: '301 B St, Davis, CA 95616',"
+Taqueria El Burrito,"223 F St, Davis, CA 95616","https://www.google.com/maps/place/Taqueria+El+Burrito/@38.5441696,-121.7431324,17z/data=!3m1!4b1!4m6!3m5!1s0x808529749d7715cf:0x6a70ea1ff82e8c74!8m2!3d38.5441654!4d-121.7405575!16s%2Fg%2F1hm4jjdkx?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Mexican Restaurant,TRUE,,39,,"Google Map Link': ""https://www.google.com/maps/place/Sam's+Restaurant/@38.544051,-121.7450647,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290ba1224d55:0x92f57a6062372ae9!8m2!3d38.544051!4d-121.7450647!16s%2Fm%2F02h5f4w?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+Manna Restaurant,"622 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Manna+Restaurant/@38.5445498,-121.7432362,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297497e2c195:0x6dc951653c50075c!8m2!3d38.5445456!4d-121.7406613!16s%2Fg%2F1tdx4btk?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Korean Restaurant,TRUE,,40,,"rating: '',"
+Dunloe Brewing - The Local,"610 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Dunloe+Brewing+-+The+Local/@38.5444435,-121.7435158,16z/data=!3m1!4b1!4m6!3m5!1s0x80852901c74b41a7:0x9a9ac77a6b9c51ea!8m2!3d38.5444393!4d-121.7409409!16s%2Fg%2F11t7shymjf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Beer Hall,TRUE,,41,,type: 'Mediterranean Restaurant'
+University of Beer - Davis,"615 3rd St, Davis, CA 95616","https://www.google.com/maps/place/University+of+Beer+-+Davis/@38.5448027,-121.7431366,17z/data=!3m2!4b1!5s0x8085297496973a4b:0xfd6c6d6f415c385e!4m6!3m5!1s0x80852974912c8e71:0x2d824ab74049159f!8m2!3d38.5447985!4d-121.7405617!16s%2Fg%2F11b75n128y?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bar,TRUE,,42,,"},"
+Panera Bread,"609 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Panera+Bread/@38.5448313,-121.7433801,17z/data=!3m2!4b1!5s0x8085297496973a4b:0xfd6c6d6f415c385e!4m6!3m5!1s0x80852974962dec5f:0x31aa6758598aeb30!8m2!3d38.5448271!4d-121.7408052!16s%2Fg%2F1hd_33hsw?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Cafe,TRUE,,43,,{
+Steve's Pizza,"314 F St, Davis, CA 95616","https://www.google.com/maps/place/Steve's+Pizza/@38.5453577,-121.7427863,17z/data=!3m1!4b1!4m6!3m5!1s0x808529748d5198f3:0x5884b6dcc2adc837!8m2!3d38.5453535!4d-121.7402114!16s%2Fg%2F1tdkxxdt?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Pizza Restaurant,TRUE,,44,,"name: 'Pizza & Pints',"
+Acai Fresh,"431 G St, Davis, CA 95616","https://www.google.com/maps/place/Acai+Fresh/@38.5472353,-121.7426261,17z/data=!3m1!4b1!4m6!3m5!1s0x808529a2126c7ed3:0xded31211876331f5!8m2!3d38.5472311!4d-121.7400512!16s%2Fg%2F11wflghm08?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Acai Shop,TRUE,,45,,"address: '236 B St, Davis, CA 95616',"
+Taco Bell,"425 G St, Davis, CA 95616","https://www.google.com/maps/place/Taco+Bell/@38.5468512,-121.7401068,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297503bdbc59:0xaee10b2dd7940d88!8m2!3d38.5468512!4d-121.7401068!16s%2Fg%2F1ttq2b6r?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Fast Food Restaurant,TRUE,,46,,"Google Map Link': 'https://www.google.com/maps/place/Pizza+%26+Pints/@38.5438055,-121.7469253,16z/data=!3m1!4b1!4m6!3m5!1s0x8085299783ffa705:0x2047ba0adfaf82ec!8m2!3d38.5438013!4d-121.7443504!16s%2Fg%2F11hz0rkm36?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Lazi Cow,"407 G St #4, Davis, CA 95616","https://www.google.com/maps/place/Lazi+Cow/@38.5464682,-121.7426112,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974fcffc1bf:0xc960156d57e90f77!8m2!3d38.546464!4d-121.7400363!16s%2Fg%2F11b77f1f5p?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,47,,"rating: '',"
+Tasty Palace 品香阁,"403 G St, Davis, CA 95616","https://www.google.com/maps/place/Tasty+Palace+%E5%93%81%E9%A6%99%E9%98%81/@38.5463161,-121.7425809,17z/data=!3m1!4b1!4m6!3m5!1s0x80852962d3cfc811:0x9dd513779c4741cb!8m2!3d38.5463119!4d-121.740006!16s%2Fg%2F11v9_8xdwm?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chinese Restaurant,TRUE,,48,,type: 'Pizza Restaurant'
+Jack in the Box,"337 G St, Davis, CA 95616","https://www.google.com/maps/place/Jack+in+the+Box/@38.5458604,-121.7423785,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974f82b5257:0xbc87bfd0042a1c17!8m2!3d38.5458562!4d-121.7398036!16s%2Fg%2F1tvrzyv3?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Fast Food Restaurant,TRUE,,49,,"},"
+Upper Crust Baking - Davis,"634 G St, Davis, CA 95616","https://www.google.com/maps/place/Upper+Crust+Baking+-+Davis/@38.5501245,-121.7426476,17z/data=!3m1!4b1!4m6!3m5!1s0x8085295cfd0a546f:0x5c90a5398fee40dd!8m2!3d38.5501203!4d-121.7400727!16s%2Fg%2F11h37tswzz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bakery,TRUE,,50,,{
+Hunan Style,"630 G St, Davis, CA 95616","https://www.google.com/maps/place/Hunan+Style/@38.5500038,-121.742614,17z/data=!3m1!4b1!4m6!3m5!1s0x8085291a539131df:0x522605319565e623!8m2!3d38.5499996!4d-121.7400391!16s%2Fg%2F11tfmx6_ps?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Hunan Restaurant,TRUE,,51,,"name: 'Crepeville Breakfast',"
+Wingstop,"408 G St, Davis, CA 95616","https://www.google.com/maps/place/Wingstop/@38.5465297,-121.7421058,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974ff9f4947:0x633a81546e1f2ba9!8m2!3d38.5465255!4d-121.7395309!16s%2Fg%2F12hlcx7dg?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chicken Wings Restaurant,TRUE,,52,,"address: '330 3rd St, Davis, CA 95616',"
+Good Friends Hawaiian Poke,"400 G St, Davis, CA 95616","https://www.google.com/maps/place/Good+Friends+Hawaiian+Poke/@38.5463869,-121.7420457,17z/data=!3m1!4b1!4m6!3m5!1s0x808529745625fce9:0xb6d34db1a4ab5c90!8m2!3d38.5463827!4d-121.7394708!16s%2Fg%2F11fx2wpc67?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Hawaiian Restaurant,TRUE,,53,,"Google Map Link': 'https://www.google.com/maps/place/Crepeville/@38.5439539,-121.7464604,16z/data=!3m1!4b1!4m6!3m5!1s0x8085290b6a688f2d:0xd7a81b8d31f3985a!8m2!3d38.5439497!4d-121.7438855!16s%2Fg%2F1tdw3q1r?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Outpost Burger,"330 G St Suite A, Davis, CA 95616","https://www.google.com/maps/place/Outpost+Burger/@38.545957,-121.7417,17z/data=!3m1!4b1!4m6!3m5!1s0x80852958aeae9487:0xcc874f00272d7961!8m2!3d38.5459528!4d-121.7391251!16s%2Fg%2F11vlbs0pjf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Hamburger Restaurant,TRUE,,54,,"rating: '',"
+Parkside Sports Bar & Grill,"330 G St, Davis, CA 95616","https://www.google.com/maps/place/Parkside+Sports+Bar+%26+Grill/@38.545789,-121.7418435,17z/data=!3m1!4b1!4m6!3m5!1s0x808529b30b638677:0x47f6b284b379134f!8m2!3d38.5457848!4d-121.7392686!16s%2Fg%2F11fltnmk9y?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Sports Bar,TRUE,,55,,type: 'Breakfast Restaurant'
+Pho Tasty,"301 G St, Davis, CA 95616","https://www.google.com/maps/place/Pho+Tasty/@38.5450154,-121.7420745,17z/data=!3m1!4b1!4m6!3m5!1s0x808529dd4dc45df1:0x5aaeebf54115c7a9!8m2!3d38.5450112!4d-121.7394996!16s%2Fg%2F11qs994y92?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Vietnamese Restaurant,TRUE,,56,,"},"
+Mamma Davis,"226 F St, Davis, CA 95616","https://www.google.com/maps/place/Mamma+Davis/@38.5444293,-121.7425104,17z/data=!3m1!4b1!4m6!3m5!1s0x808529770da22b89:0xbe2856656a9fd165!8m2!3d38.5444251!4d-121.7399355!16s%2Fg%2F11svbgdd2c?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Italian Restaurant,TRUE,,57,,{
+Zumapoke & Lush Ice,"730 3rd St, Davis, CA 95616","https://www.google.com/maps/place/Zumapoke+%26+Lush+Ice/@38.5447025,-121.7422442,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297486df7285:0x8cec00649e179341!8m2!3d38.5446983!4d-121.7396693!16s%2Fg%2F11cjgbj2x5?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Hawaiian Restaurant,TRUE,,58,,"name: 'Yolo Berry Yogurt',"
+Temple Coffee Roasters,"239 G St, Davis, CA 95616","https://www.google.com/maps/place/Temple+Coffee+Roasters/@38.5447373,-121.7419745,17z/data=!3m1!4b1!4m6!3m5!1s0x808529747ddd071d:0x14abf92523dc5167!8m2!3d38.5447331!4d-121.7393996!16s%2Fg%2F11bv5th2wd?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Coffee Shop,TRUE,,59,,"address: '316 C St, Davis, CA 95616',"
+Three Mile Brewing Co,"231 G St Suite 3, Davis, CA 95616","https://www.google.com/maps/place/Three+Mile+Brewing+Co./@38.544638,-121.7421302,17z/data=!3m1!4b1!4m6!3m5!1s0x808529748060ba75:0x35da46839d451e2a!8m2!3d38.5446338!4d-121.7395553!16s%2Fg%2F11ckc7s5d3?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Brewery,TRUE,,60,,"Google Map Link': 'https://www.google.com/maps/place/Yolo+Berry+Yogurt/@38.5447787,-121.7461071,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290b3c0b5e6d:0x3ef05664bd79bc4c!8m2!3d38.5447745!4d-121.7435322!16s%2Fg%2F1wg5y6zk?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+PHO Yummy,"229 G St, Davis, CA 95616","https://www.google.com/maps/place/PHO+YUMMY/@38.5444609,-121.7419472,16z/data=!3m1!4b1!4m6!3m5!1s0x8085299420e73985:0x61da839d414fb660!8m2!3d38.5444567!4d-121.7393723!16s%2Fg%2F11w7zv7h69?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,61,,"rating: '',"
+Jasmine Tea shoppe,"225 G St, Davis, CA 95616","https://www.google.com/maps/place/Jasmine+Tea+shoppe/@38.5444214,-121.741867,16z/data=!3m2!4b1!5s0x8085297380502087:0x7f5177f121a42404!4m6!3m5!1s0x80852900449412bb:0x57ea5aaf36f1ba6c!8m2!3d38.5444172!4d-121.7392921!16s%2Fg%2F11vjxh5pfz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Tea House,TRUE,,62,,type: 'Frozen Yogurt Shop'
+Red 88,"223 G St, Davis, CA 95616","https://www.google.com/maps/place/Red+88+-+Davis/@38.5443422,-121.7418349,17z/data=!3m2!4b1!5s0x8085297380502087:0x7f5177f121a42404!4m6!3m5!1s0x808529738127523b:0xde1ae49caf368d3b!8m2!3d38.544338!4d-121.73926!16s%2Fg%2F1tdfyyv3?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,63,,"},"
+Shipwrecked Tiki Bar,"217 G St, Davis, CA 95616","https://www.google.com/maps/place/Shipwrecked+Tiki+Bar/@38.5441036,-121.7393545,17z/data=!3m1!4b1!4m6!3m5!1s0x808529121152cf45:0x463e560a08ef5268!8m2!3d38.5441036!4d-121.7393545!16s%2Fg%2F11styxfd7j?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Tiki Bar,TRUE,,64,,{
+Woodstock's Pizza Davis,"238 G St, Davis, CA 95616","https://www.google.com/maps/place/Woodstock's+Pizza+Davis/@38.544772,-121.7415117,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297383f12ded:0xe297b7fd3bc1f0e4!8m2!3d38.5447678!4d-121.7389368!16s%2Fg%2F1tfppxxn?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,65,,"name: 'Burgers and Brew',"
+Kathmandu Kitchen,"234 G St, Davis, CA 95616","https://www.google.com/maps/place/Kathmandu+Kitchen/@38.5446541,-121.7414678,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297387f72373:0x43ffbacb0472df2c!8m2!3d38.5446499!4d-121.7388929!16s%2Fg%2F1thzv098?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Indian Restaurant,TRUE,,66,,"address: '403 3rd St, Davis, CA 95616',"
+Jusco,"228 G St, Davis, CA 95616","https://www.google.com/maps/place/Jusco/@38.5445681,-121.7414179,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290e4bea4be1:0x9b1bca9661b890a0!8m2!3d38.5445639!4d-121.738843!16s%2Fg%2F11swqfp6qv?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Sushi Restaurant,TRUE,,67,,"Google Map Link': 'https://www.google.com/maps/place/Burgers+and+Brew/@38.5444041,-121.7599618,15z/data=!4m10!1m2!2m1!1sburgers+and+brew!3m6!1s0x8085290b3f42d4bb:0x82266043013da33f!8m2!3d38.5444047!4d-121.7434823!15sChBidXJnZXJzIGFuZCBicmV3IgOIAQFaEiIQYnVyZ2VycyBhbmQgYnJld5IBFGhhbWJ1cmdlcl9yZXN0YXVyYW504AEA!16s%2Fg%2F1hc1vbw19?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+G St Wunderbar,"228 G St, Davis, CA 95616","https://www.google.com/maps/place/G+St+Wunderbar/@38.5445172,-121.7415498,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973878509b9:0xd91c7c09b5dafc39!8m2!3d38.544513!4d-121.7389749!16s%2Fm%2F0n9pf9s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bar & Grill,TRUE,,68,,"rating: '',"
+Open Rice Kitchen,"Chen Building, 204 G St, Davis, CA 95616","https://www.google.com/maps/place/Open+Rice+Kitchen/@38.5439239,-121.7413634,17z/data=!3m2!4b1!5s0x8085297390eb888b:0x3118b368b31b314e!4m6!3m5!1s0x808529739a312065:0x353105b92f5a6cf0!8m2!3d38.5439197!4d-121.7387885!16s%2Fg%2F12hq5zt8v?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Cantonese Restaurant,TRUE,,69,,type: 'Burgers and Brew'
+Tres Hermanas Davis,"805 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Tres+Hermanas+Davis/@38.5438786,-121.7409581,17z/data=!3m2!4b1!5s0x8085297390eb888b:0x3118b368b31b314e!4m6!3m5!1s0x8085297393fc4803:0x66bdb5ad380a094f!8m2!3d38.5438744!4d-121.7383832!16s%2Fg%2F1tdx4btj?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Mexican Restaurant,TRUE,,70,,"},"
+Preethi Indian Cuisine,"715 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Preethi+Indian+Cuisine/@38.5436743,-121.74189,17z/data=!3m1!4b1!4m6!3m5!1s0x808529739db27109:0x53ecf3d01d9ff620!8m2!3d38.5436701!4d-121.7393151!16s%2Fg%2F113j086pw?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Indian Restaurant,TRUE,,71,,{
+Blaze Pizza,"212 F St, Davis, CA 95616","https://www.google.com/maps/place/Blaze+Pizza/@38.5439134,-121.7424005,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973796c76f3:0x94d685802d816550!8m2!3d38.5439092!4d-121.7398256!16s%2Fg%2F11b7q8qx_j?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Pizza Restaurant,TRUE,,72,,"name: ""MAYA'S Authentic Mexican Food"","
+Sharetea,"208 F St, Davis, CA 95616","https://www.google.com/maps/place/Sharetea/@38.5438176,-121.7424383,17z/data=!3m2!4b1!5s0x808529737743b09f:0xa801d9085d4f5c09!4m6!3m5!1s0x8085290bc0d45a05:0x2dfcb798dde2d9e2!8m2!3d38.5438134!4d-121.7398634!16s%2Fg%2F11bwyvhj33?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bubble Tea Store,TRUE,,73,,"address: '237 D St, Davis, CA 95616',"
+The Posh Bagel,"206 F St, Davis, CA 95616","https://www.google.com/maps/place/The+Posh+Bagel/@38.5437533,-121.7424066,17z/data=!3m2!4b1!5s0x808529737743b09f:0xa801d9085d4f5c09!4m6!3m5!1s0x808529737a218c35:0xb9f8aa7cdefa37e3!8m2!3d38.5437491!4d-121.7398317!16s%2Fg%2F1td42qbh?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bagel Shop,TRUE,,74,,"Google Map Link': 'https://www.google.com/maps/place/MAYA%E2%80%99S+Authentic+Mexican+Food/@38.5441987,-121.7426418,17z/data=!3m1!4b1!4m6!3m5!1s0x808529b568b766b1:0x18eeda5f41214f6!8m2!3d38.5441987!4d-121.7426418!16s%2Fg%2F11v_42d2p6?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Tasty Pot Davis,"707 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Tasty+Pot+Davis/@38.5437018,-121.7421711,16z/data=!3m1!4b1!4m6!3m5!1s0x80852900723900b3:0xebe05173f05fc4d0!8m2!3d38.5436976!4d-121.7395962!16s%2Fg%2F11lttlttc4?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Hot Pot Restaurant,TRUE,,75,,"rating: '',"
+Village Bakery,"Chamber of Commerce, 814 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Village+Bakery/@38.5435822,-121.7409575,17z/data=!3m2!4b1!5s0x80852973bda97913:0xabf1150aaf31c14b!4m6!3m5!1s0x808529739762967b:0x4d05fad7add8d240!8m2!3d38.543578!4d-121.7383826!16s%2Fg%2F1tg9nc15?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bakery,TRUE,,76,,type: 'Mexican Restaurant'
+Tim's Kitchen,"808 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Tim's+Kitchen/@38.543562,-121.7410686,16z/data=!3m2!4b1!5s0x80852973bda97913:0xabf1150aaf31c14b!4m6!3m5!1s0x8085292b89eb2b31:0x3bb2bcbce23b3e29!8m2!3d38.5435578!4d-121.7384937!16s%2Fg%2F11k_m5nb3q?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chinese Restaurant,TRUE,,77,,"},"
+Pachamama Coffee Davis,"130 G St, Davis, CA 95616","https://www.google.com/maps/place/Pachamama+Coffee+Davis/@38.5435264,-121.7412767,17z/data=!3m2!4b1!5s0x80852973bda97913:0xabf1150aaf31c14b!4m6!3m5!1s0x8085297322ca2621:0x9818afc5d9d4a48e!8m2!3d38.5435222!4d-121.7387018!16s%2Fg%2F1pty0gkdy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Coffee Shop,TRUE,,78,,{
+Tommy J's Grill & Catering,"726 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Tommy+J's+Grill+%26+Catering/@38.5434111,-121.7415527,17z/data=!3m1!4b1!4m6!3m5!1s0x808529739eb69bdd:0xed861d268e6d723d!8m2!3d38.5434069!4d-121.7389778!16s%2Fg%2F1tf6gw37?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,79,,"name: 'Cafe Bernardo',"
+Froggy's,"726 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Froggy's/@38.5434064,-121.7415568,17z/data=!3m1!4b1!4m6!3m5!1s0x808529739eb69bdd:0x174d073b048699d0!8m2!3d38.5434022!4d-121.7389819!16s%2Fg%2F1trpr03h?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,,TRUE,,80,,"address: '234 D St, Davis, CA 95616',"
+Falafel Corner,"720 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Falafel+Corner/@38.5434267,-121.7417349,16z/data=!3m1!4b1!4m6!3m5!1s0x80852958ef65b403:0x9a520ffaed5514e6!8m2!3d38.5434225!4d-121.73916!16s%2Fg%2F11v0cvw8nz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Mediterranean Restaurant,TRUE,,81,,"Google Map Link': 'https://www.google.com/maps/place/Cafe+Bernardo/@38.5442611,-122.2695201,10z/data=!3m1!5s0x80852974b281ea7d:0xb174f6cdd8ed8600!4m10!1m2!2m1!1sCafe+bernardo!3m6!1s0x80852974ad96840f:0x61b7aae4f5face07!8m2!3d38.5442611!4d-121.7421764!15sCg1DYWZlIGJlcm5hcmRvIgOIAQFaDyINY2FmZSBiZXJuYXJkb5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F1tw_ngnj?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Paesanos,"139 G St, Davis, CA 95616","https://www.google.com/maps/place/Paesanos/@38.5433245,-121.7416091,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973a2664891:0xb7e382a8c2bcc31!8m2!3d38.5433203!4d-121.7390342!16s%2Fg%2F1v2gdzxx?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Italian Restaurant,TRUE,,82,,"rating: '',"
+Teaspoon Davis Boba Cafe,"110 F St Suite D, Davis, CA 95616","https://www.google.com/maps/place/Teaspoon+Davis+Boba+Cafe/@38.5426925,-121.7420234,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297307e99a07:0xf27fc612b0a0d950!8m2!3d38.5426883!4d-121.7394485!16s%2Fg%2F11f7ftmnn8?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Bubble Tea Store,TRUE,,83,,type: ''
+Starbucks,"623 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Starbucks/@38.5435963,-121.7428459,17z/data=!3m1!4b1!4m6!3m5!1s0x808529737179e2a1:0xf8997ce762887c20!8m2!3d38.5435921!4d-121.740271!16s%2Fg%2F1tf_193_?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Coffee Shop,TRUE,,84,,"},"
+Icekrimski Cafe,"618 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Icekrimski+Cafe/@38.5432762,-121.7429257,17z/data=!3m1!4b1!4m6!3m5!1s0x808529736e425e23:0xf2de806b16f56e0!8m2!3d38.543272!4d-121.7403508!16s%2Fg%2F1x6q1zzd?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Ice Cream Shop,TRUE,,85,,{
+Mishka's Cafe,"610 2nd St, Davis, CA 95616","https://www.google.com/maps/place/Mishka's+Caf%C3%A9/@38.543143,-121.7431597,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973450c4fd7:0x32fc8bd3c005ee91!8m2!3d38.5431388!4d-121.7405848!16s%2Fg%2F1td3ltn7?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Cafe,TRUE,,86,,"name: 'The Mustard Seed',"
+Uniboil ,"132 E St #260, Davis, CA 95616","https://www.google.com/maps/place/Uniboil+%E7%85%AE%E9%81%93/@38.5428972,-121.743115,17z/data=!3m2!4b1!5s0x8085297314681fad:0x70b03fe475d6b340!4m6!3m5!1s0x808529736cb02df9:0xd2f54d2ead26cb28!8m2!3d38.542893!4d-121.7405401!16s%2Fg%2F11d_w6bq85?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Asian Restaurant,TRUE,,87,,"address: '222 D St #11, Davis, CA 95616',"
+T4 Davis,"132 E St ste. 190, Davis, CA 95616","https://www.google.com/maps/place/T4+Davis/@38.5428552,-121.7430969,17z/data=!3m2!4b1!5s0x8085297314681fad:0x70b03fe475d6b340!4m6!3m5!1s0x80852973149a97f3:0x90cdc2c602ab26e5!8m2!3d38.542851!4d-121.740522!16s%2Fg%2F11dxjjkxr1?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Cafe,TRUE,,88,,"Google Map Link': 'https://www.google.com/maps/place/The+Mustard+Seed/@38.543803,-121.742096,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974abd4307b:0x768e8df86c06f3a!8m2!3d38.543803!4d-121.742096!16s%2Fg%2F1tgnxfpy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+Zen Toro Japanese Bistro,"132 E St #100, Davis, CA 95616","https://www.google.com/maps/place/Zen+Toro+Japanese+Bistro/@38.5428418,-121.743352,17z/data=!3m2!4b1!5s0x8085297314681fad:0x70b03fe475d6b340!4m6!3m5!1s0x8085297313856af7:0xce34e68c8a332ae9!8m2!3d38.5428376!4d-121.7407771!16s%2Fg%2F1vd3w03t?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Japanese Restaurant,TRUE,,89,,"rating: '',"
+The Hotdogger,"129 E St, Davis, CA 95616","https://www.google.com/maps/place/The+Hotdogger/@38.5427778,-121.7437153,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973408fe165:0x5fcd44ddafed70f9!8m2!3d38.5427736!4d-121.7411404!16s%2Fg%2F11c5s5_qsm?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Hot Dog Restaurant,TRUE,,90,,type: 'Californian Restaurant'
+Davis Noodle City,"129 E St #1d, Davis, CA 95616","https://www.google.com/maps/place/Davis+Noodle+City/@38.5426634,-121.7439889,17z/data=!3m1!4b1!4m6!3m5!1s0x808529733f508183:0x1a302b4ce41f0cf3!8m2!3d38.5426592!4d-121.741414!16s%2Fg%2F1tdx4btg?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Chinese Restaurant,TRUE,,91,,"},"
+Davis Creamery,"113 E St, Davis, CA 95616","https://www.google.com/maps/place/Davis+Creamery/@38.5424856,-121.7436097,17z/data=!3m2!4b1!5s0x808529733c2df24d:0x6e17a5e51b3d1837!4m6!3m5!1s0x80852963f093ff8f:0x8bae2500b1dede8!8m2!3d38.5424814!4d-121.7410348!16s%2Fg%2F1tf7gx4h?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Ice Cream Shop,TRUE,,92,,{
+Yuchan Shokudo,"109 E St, Davis, CA 95616","https://www.google.com/maps/place/Yuchan+Shokudo+(formerly+Yakitori+Yuchan)/@38.5424029,-121.7435939,17z/data=!3m2!4b1!5s0x808529733c2df24d:0x6e17a5e51b3d1837!4m6!3m5!1s0x808529733dbf7f5b:0x9e235fc2a7dfe725!8m2!3d38.5423987!4d-121.741019!16s%2Fg%2F11b6_48x2y?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D",,Japanese Restaurant,TRUE,,93,,"name: 'Hunan Bar & Restaurant',"
+,,,,,,,,,"address: '207 D St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Hunan+Bar+%26+Restaurant/@38.5433806,-121.7450075,17z/data=!3m1!4b1!4m6!3m5!1s0x809ad6c93004df11:0x85d9755acc3f6e0d!8m2!3d38.5433764!4d-121.7424326!16s%2Fg%2F1thhkq_6?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chinese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Peet's Coffee"","
+,,,,,,,,,"address: '231 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Peet's+Coffee/@38.5441876,-121.7746123,14z/data=!4m10!1m2!2m1!1speet's+coffee!3m6!1s0x80852974a5bf0717:0x8c62bde28bd7d835!8m2!3d38.5441876!4d-121.7416533!15sCg1wZWV0J3MgY29mZmVlIgOIAQFaDyINcGVldCdzIGNvZmZlZZIBC2NvZmZlZV9zaG9w4AEA!16s%2Fg%2F1tp_6m9s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Coffee Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Chipotle Mexican Grill',"
+,,,,,,,,,"address: '227 E St Ste 1, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Chipotle+Mexican+Grill/@38.5440526,-121.7415034,17z/data=!3m1!4b1!4m6!3m5!1s0x808529735e834de5:0x80e9e5db64a12406!8m2!3d38.5440526!4d-121.7415034!16s%2Fg%2F1tfnytj4?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Mexican Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Raising Cane's Chicken Fingers"","
+,,,,,,,,,"address: '207 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Raising+Cane's+Chicken+Fingers/@38.5435075,-121.7440425,17z/data=!3m2!4b1!5s0x808529735bc4e8cf:0x9fc9c638ad86c94f!4m6!3m5!1s0x808529e305f489d5:0xac63d35673197ef6!8m2!3d38.5435033!4d-121.7414676!16s%2Fg%2F11rdy619g1?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Fast Food Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Philz Coffee',"
+,,,,,,,,,"address: '521 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Philz+Coffee/@38.543378,-121.7413272,17z/data=!3m1!4b1!4m6!3m5!1s0x808529735b61f2f5:0x76c5f6325eca0764!8m2!3d38.543378!4d-121.7413272!16s%2Fg%2F11f11r9bzg?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Coffee Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Insomnia Cookies',"
+,,,,,,,,,"address: '202 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Insomnia+Cookies/@38.5435613,-121.7435549,17z/data=!3m1!4b1!4m6!3m5!1s0x808529cb45e2a84b:0xeaacbc605daf907c!8m2!3d38.5435571!4d-121.74098!16s%2Fg%2F11gsmn13nf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Dessert Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Sophia's Thai Kitchen"","
+,,,,,,,,,"address: '129 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Sophia's+Thai+Kitchen/@38.5427503,-121.7439371,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297317b9e913:0x6c9611f6637ea244!8m2!3d38.5427461!4d-121.7413622!16s%2Fg%2F11b77fxh9z?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Thai Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Dumpling House',"
+,,,,,,,,,"address: '129 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Dumpling+House/@38.5426658,-121.7437063,17z/data=!3m1!4b1!4m6!3m5!1s0x80852955e575e129:0x835ee91f00c174cd!8m2!3d38.5426616!4d-121.7411314!16s%2Fg%2F11rpcmp0bm?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chinese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Thai Canteen',"
+,,,,,,,,,"address: '117 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Thai+Canteen/@38.5425022,-121.7436441,17z/data=!3m2!4b1!5s0x808529733c2df24d:0x6e17a5e51b3d1837!4m6!3m5!1s0x808529733e64b817:0xc7891fb577fc52f4!8m2!3d38.542498!4d-121.7410692!16s%2Fg%2F1tf81twf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Thai Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Mikuni',"
+,,,,,,,,,"address: '500 1st St #19, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Mikuni/@38.5416389,-121.7438404,17z/data=!3m1!4b1!4m6!3m5!1s0x80852972dd12ed59:0x9a403cc20265f10b!8m2!3d38.5416347!4d-121.7412655!16s%2Fg%2F1tmz74jz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Sushi Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Shabu Shack',"
+,,,,,,,,,"address: '500 1st St Suite 15, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Shabu+Shack/@38.5415528,-121.7437136,17z/data=!3m1!4b1!4m6!3m5!1s0x808529dcd5f969cb:0x828402c9a60453bc!8m2!3d38.5415486!4d-121.7411387!16s%2Fg%2F11vygdbvnv?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Local Kitchens',"
+,,,,,,,,,"address: '500 1st St Ste 13a, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Local+Kitchens/@38.5414988,-121.74359,17z/data=!3m1!4b1!4m6!3m5!1s0x808529a828610347:0x38e3c70ebab47253!8m2!3d38.5414946!4d-121.7410151!16s%2Fg%2F11q4gdvdpz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'My Burma',"
+,,,,,,,,,"address: '500 1st St #11, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/My+Burma/@38.5414338,-121.741013,16z/data=!3m1!4b1!4m6!3m5!1s0x808529a9e49ad741:0xb8750ec47c9590af!8m2!3d38.5414338!4d-121.741013!16s%2Fg%2F11lm4yn4jy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Bruxie',"
+,,,,,,,,,"address: '500 1st St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Bruxie/@38.5413905,-121.7408136,16z/data=!3m1!4b1!4m6!3m5!1s0x808529001e3fec35:0x2b5c9820183cde97!8m2!3d38.5413905!4d-121.7408136!16s%2Fg%2F11vydwwdgy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chicken Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'TOMO Tea House',"
+,,,,,,,,,"address: '500 1st St Suite 5, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/TOMO+Tea+House/@38.541376,-121.7432148,17z/data=!3m1!4b1!4m6!3m5!1s0x8085298f1842b793:0xc191869cd4e952ae!8m2!3d38.5413718!4d-121.7406399!16s%2Fg%2F11l2pj6wcb?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bubble Tea Store'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Nopalito Taqueria at Local Kitchens',"
+,,,,,,,,,"address: '500 1st St Ste 13a, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Nopalito+Taqueria+at+Local+Kitchens/@38.5410913,-121.7431102,17z/data=!3m1!4b1!4m6!3m5!1s0x808529af6b397ec9:0xbb705bc37f1772ce!8m2!3d38.5410871!4d-121.7405353!16s%2Fg%2F11vhqvbhmj?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Mexican Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Honey D Cafe',"
+,,,,,,,,,"address: '213 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Honey+D+Cafe/@38.5436639,-121.7439192,17z/data=!3m1!4b1!4m6!3m5!1s0x808529f2e6eb7bdf:0xda14a27915937804!8m2!3d38.5436597!4d-121.7413443!16s%2Fg%2F11h6450872?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Cloud Forest Cafe',"
+,,,,,,,,,"address: '222 D St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Cloud+Forest+Cafe/@38.5439495,-121.744811,17z/data=!3m1!4b1!4m6!3m5!1s0x8085283ffa526dab:0xe9a15dfb84d5fc41!8m2!3d38.5439453!4d-121.7422361!16s%2Fg%2F1td4dscw?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Coffee Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Handheld Sweet and Savory Pies',"
+,,,,,,,,,"address: 'Odd Fellows Hall, 415 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Handheld+Sweet+and+Savory+Pies/@38.5432054,-121.7452299,17z/data=!3m1!4b1!4m6!3m5!1s0x808529b51f805099:0xd7770e18cd5751fa!8m2!3d38.5432012!4d-121.742655!16s%2Fg%2F11rf48bnl5?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Aggie Yogurt & Bingsu',"
+,,,,,,,,,"address: '425 2nd St a, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Aggie+Yogurt+%26+Bingsu/@38.5432388,-121.7451251,16z/data=!3m1!4b1!4m6!3m5!1s0x808529002ad2f1cb:0x879b0def2b6791be!8m2!3d38.5432346!4d-121.7425502!16s%2Fg%2F11w59gtvdl?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Frozen Yogurt Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Taffach Ethiopian Restaurant',"
+,,,,,,,,,"address: '113 D St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Taffach+Ethiopian+Restaurant+(We+are+not+open+for+business+yet)/@38.5422053,-121.744759,17z/data=!3m2!4b1!5s0x80852973346ecb67:0x5e153e3d65a68e6c!4m6!3m5!1s0x80852974687c35a7:0x5f646096518a1717!8m2!3d38.5422011!4d-121.7421841!16s%2Fg%2F11y4tqd2x6?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Ethiopian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Sweet and Shavery',"
+,,,,,,,,,"address: '210 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Sweet+and+Shavery/@38.543683,-121.7435076,17z/data=!3m1!4b1!4m6!3m5!1s0x808529735dfe4813:0x699a4ca531170c83!8m2!3d38.5436788!4d-121.7409327!16s%2Fg%2F11b5qt1b1b?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Dessert Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Nick The Greek',"
+,,,,,,,,,"address: '206 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Nick+The+Greek/@38.5436374,-121.7436079,17z/data=!3m1!4b1!4m6!3m5!1s0x808529fa734a4699:0x47bf14c60078d219!8m2!3d38.5436332!4d-121.741033!16s%2Fg%2F11pf1v8d6s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Greek Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'El Patio Fresh Mexican Grill',"
+,,,,,,,,,"address: '200 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/El+Patio+Fresh+Mexican+Grill/@38.5434316,-121.7434999,17z/data=!3m1!4b1!4m6!3m5!1s0x808529af9c137887:0x50abd8fbdd16f813!8m2!3d38.5434274!4d-121.740925!16s%2Fg%2F11h53xmx52?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Mexican Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Davis Wine Bar',"
+,,,,,,,,,"address: '611 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Davis+Wine+Bar/@38.5434375,-121.7432331,16z/data=!3m1!4b1!4m6!3m5!1s0x808529450bcd3e85:0x37eec44f7f567800!8m2!3d38.5434333!4d-121.7406582!16s%2Fg%2F11fn64hcd7?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bar'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Taqueria El Burrito',"
+,,,,,,,,,"address: '223 F St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Taqueria+El+Burrito/@38.5441696,-121.7431324,17z/data=!3m1!4b1!4m6!3m5!1s0x808529749d7715cf:0x6a70ea1ff82e8c74!8m2!3d38.5441654!4d-121.7405575!16s%2Fg%2F1hm4jjdkx?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Mexican Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Manna Restaurant',"
+,,,,,,,,,"address: '622 3rd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Manna+Restaurant/@38.5445498,-121.7432362,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297497e2c195:0x6dc951653c50075c!8m2!3d38.5445456!4d-121.7406613!16s%2Fg%2F1tdx4btk?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Korean Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Dunloe Brewing - The Local',"
+,,,,,,,,,"address: '610 3rd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Dunloe+Brewing+-+The+Local/@38.5444435,-121.7435158,16z/data=!3m1!4b1!4m6!3m5!1s0x80852901c74b41a7:0x9a9ac77a6b9c51ea!8m2!3d38.5444393!4d-121.7409409!16s%2Fg%2F11t7shymjf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Beer Hall'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'University of Beer - Davis',"
+,,,,,,,,,"address: '615 3rd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/University+of+Beer+-+Davis/@38.5448027,-121.7431366,17z/data=!3m2!4b1!5s0x8085297496973a4b:0xfd6c6d6f415c385e!4m6!3m5!1s0x80852974912c8e71:0x2d824ab74049159f!8m2!3d38.5447985!4d-121.7405617!16s%2Fg%2F11b75n128y?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bar'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Panera Bread',"
+,,,,,,,,,"address: '609 3rd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Panera+Bread/@38.5448313,-121.7433801,17z/data=!3m2!4b1!5s0x8085297496973a4b:0xfd6c6d6f415c385e!4m6!3m5!1s0x80852974962dec5f:0x31aa6758598aeb30!8m2!3d38.5448271!4d-121.7408052!16s%2Fg%2F1hd_33hsw?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Cafe'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Steve's Pizza"","
+,,,,,,,,,"address: '314 F St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Steve's+Pizza/@38.5453577,-121.7427863,17z/data=!3m1!4b1!4m6!3m5!1s0x808529748d5198f3:0x5884b6dcc2adc837!8m2!3d38.5453535!4d-121.7402114!16s%2Fg%2F1tdkxxdt?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Pizza Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Acai Fresh',"
+,,,,,,,,,"address: '431 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Acai+Fresh/@38.5472353,-121.7426261,17z/data=!3m1!4b1!4m6!3m5!1s0x808529a2126c7ed3:0xded31211876331f5!8m2!3d38.5472311!4d-121.7400512!16s%2Fg%2F11wflghm08?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Acai Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Taco Bell',"
+,,,,,,,,,"address: '425 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Taco+Bell/@38.5468512,-121.7401068,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297503bdbc59:0xaee10b2dd7940d88!8m2!3d38.5468512!4d-121.7401068!16s%2Fg%2F1ttq2b6r?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Fast Food Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Lazi Cow',"
+,,,,,,,,,"address: '407 G St #4, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Lazi+Cow/@38.5464682,-121.7426112,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974fcffc1bf:0xc960156d57e90f77!8m2!3d38.546464!4d-121.7400363!16s%2Fg%2F11b77f1f5p?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Tasty Palace 品香阁',"
+,,,,,,,,,"address: '403 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Tasty+Palace+%E5%93%81%E9%A6%99%E9%98%81/@38.5463161,-121.7425809,17z/data=!3m1!4b1!4m6!3m5!1s0x80852962d3cfc811:0x9dd513779c4741cb!8m2!3d38.5463119!4d-121.740006!16s%2Fg%2F11v9_8xdwm?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chinese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Jack in the Box',"
+,,,,,,,,,"address: '337 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Jack+in+the+Box/@38.5458604,-121.7423785,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974f82b5257:0xbc87bfd0042a1c17!8m2!3d38.5458562!4d-121.7398036!16s%2Fg%2F1tvrzyv3?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Fast Food Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Upper Crust Baking - Davis',"
+,,,,,,,,,"address: '634 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Upper+Crust+Baking+-+Davis/@38.5501245,-121.7426476,17z/data=!3m1!4b1!4m6!3m5!1s0x8085295cfd0a546f:0x5c90a5398fee40dd!8m2!3d38.5501203!4d-121.7400727!16s%2Fg%2F11h37tswzz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bakery'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Hunan Style',"
+,,,,,,,,,"address: '630 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Hunan+Style/@38.5500038,-121.742614,17z/data=!3m1!4b1!4m6!3m5!1s0x8085291a539131df:0x522605319565e623!8m2!3d38.5499996!4d-121.7400391!16s%2Fg%2F11tfmx6_ps?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Hunan Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Wingstop',"
+,,,,,,,,,"address: '408 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Wingstop/@38.5465297,-121.7421058,17z/data=!3m1!4b1!4m6!3m5!1s0x80852974ff9f4947:0x633a81546e1f2ba9!8m2!3d38.5465255!4d-121.7395309!16s%2Fg%2F12hlcx7dg?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chicken Wings Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Good Friends Hawaiian Poke',"
+,,,,,,,,,"address: '400 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Good+Friends+Hawaiian+Poke/@38.5463869,-121.7420457,17z/data=!3m1!4b1!4m6!3m5!1s0x808529745625fce9:0xb6d34db1a4ab5c90!8m2!3d38.5463827!4d-121.7394708!16s%2Fg%2F11fx2wpc67?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Hawaiian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Outpost Burger',"
+,,,,,,,,,"address: '330 G St Suite A, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Outpost+Burger/@38.545957,-121.7417,17z/data=!3m1!4b1!4m6!3m5!1s0x80852958aeae9487:0xcc874f00272d7961!8m2!3d38.5459528!4d-121.7391251!16s%2Fg%2F11vlbs0pjf?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Hamburger Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Parkside Sports Bar & Grill',"
+,,,,,,,,,"address: '330 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Parkside+Sports+Bar+%26+Grill/@38.545789,-121.7418435,17z/data=!3m1!4b1!4m6!3m5!1s0x808529b30b638677:0x47f6b284b379134f!8m2!3d38.5457848!4d-121.7392686!16s%2Fg%2F11fltnmk9y?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Sports Bar'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Pho Tasty',"
+,,,,,,,,,"address: '301 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Pho+Tasty/@38.5450154,-121.7420745,17z/data=!3m1!4b1!4m6!3m5!1s0x808529dd4dc45df1:0x5aaeebf54115c7a9!8m2!3d38.5450112!4d-121.7394996!16s%2Fg%2F11qs994y92?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Vietnamese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Mamma Davis',"
+,,,,,,,,,"address: '226 F St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Mamma+Davis/@38.5444293,-121.7425104,17z/data=!3m1!4b1!4m6!3m5!1s0x808529770da22b89:0xbe2856656a9fd165!8m2!3d38.5444251!4d-121.7399355!16s%2Fg%2F11svbgdd2c?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Italian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Zumapoke & Lush Ice',"
+,,,,,,,,,"address: '730 3rd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Zumapoke+%26+Lush+Ice/@38.5447025,-121.7422442,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297486df7285:0x8cec00649e179341!8m2!3d38.5446983!4d-121.7396693!16s%2Fg%2F11cjgbj2x5?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Hawaiian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Temple Coffee Roasters',"
+,,,,,,,,,"address: '239 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Temple+Coffee+Roasters/@38.5447373,-121.7419745,17z/data=!3m1!4b1!4m6!3m5!1s0x808529747ddd071d:0x14abf92523dc5167!8m2!3d38.5447331!4d-121.7393996!16s%2Fg%2F11bv5th2wd?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Coffee Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Three Mile Brewing Co',"
+,,,,,,,,,"address: '231 G St Suite 3, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Three+Mile+Brewing+Co./@38.544638,-121.7421302,17z/data=!3m1!4b1!4m6!3m5!1s0x808529748060ba75:0x35da46839d451e2a!8m2!3d38.5446338!4d-121.7395553!16s%2Fg%2F11ckc7s5d3?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Brewery'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'PHO Yummy',"
+,,,,,,,,,"address: '229 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/PHO+YUMMY/@38.5444609,-121.7419472,16z/data=!3m1!4b1!4m6!3m5!1s0x8085299420e73985:0x61da839d414fb660!8m2!3d38.5444567!4d-121.7393723!16s%2Fg%2F11w7zv7h69?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Jasmine Tea shoppe',"
+,,,,,,,,,"address: '225 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Jasmine+Tea+shoppe/@38.5444214,-121.741867,16z/data=!3m2!4b1!5s0x8085297380502087:0x7f5177f121a42404!4m6!3m5!1s0x80852900449412bb:0x57ea5aaf36f1ba6c!8m2!3d38.5444172!4d-121.7392921!16s%2Fg%2F11vjxh5pfz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Tea House'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Red 88',"
+,,,,,,,,,"address: '223 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Red+88+-+Davis/@38.5443422,-121.7418349,17z/data=!3m2!4b1!5s0x8085297380502087:0x7f5177f121a42404!4m6!3m5!1s0x808529738127523b:0xde1ae49caf368d3b!8m2!3d38.544338!4d-121.73926!16s%2Fg%2F1tdfyyv3?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Shipwrecked Tiki Bar',"
+,,,,,,,,,"address: '217 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Shipwrecked+Tiki+Bar/@38.5441036,-121.7393545,17z/data=!3m1!4b1!4m6!3m5!1s0x808529121152cf45:0x463e560a08ef5268!8m2!3d38.5441036!4d-121.7393545!16s%2Fg%2F11styxfd7j?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Tiki Bar'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Woodstock's Pizza Davis"","
+,,,,,,,,,"address: '238 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Woodstock's+Pizza+Davis/@38.544772,-121.7415117,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297383f12ded:0xe297b7fd3bc1f0e4!8m2!3d38.5447678!4d-121.7389368!16s%2Fg%2F1tfppxxn?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Kathmandu Kitchen',"
+,,,,,,,,,"address: '234 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Kathmandu+Kitchen/@38.5446541,-121.7414678,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297387f72373:0x43ffbacb0472df2c!8m2!3d38.5446499!4d-121.7388929!16s%2Fg%2F1thzv098?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Indian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Jusco',"
+,,,,,,,,,"address: '228 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Jusco/@38.5445681,-121.7414179,17z/data=!3m1!4b1!4m6!3m5!1s0x8085290e4bea4be1:0x9b1bca9661b890a0!8m2!3d38.5445639!4d-121.738843!16s%2Fg%2F11swqfp6qv?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Sushi Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'G St Wunderbar',"
+,,,,,,,,,"address: '228 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/G+St+Wunderbar/@38.5445172,-121.7415498,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973878509b9:0xd91c7c09b5dafc39!8m2!3d38.544513!4d-121.7389749!16s%2Fm%2F0n9pf9s?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bar & Grill'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Open Rice Kitchen',"
+,,,,,,,,,"address: 'Chen Building, 204 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Open+Rice+Kitchen/@38.5439239,-121.7413634,17z/data=!3m2!4b1!5s0x8085297390eb888b:0x3118b368b31b314e!4m6!3m5!1s0x808529739a312065:0x353105b92f5a6cf0!8m2!3d38.5439197!4d-121.7387885!16s%2Fg%2F12hq5zt8v?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Cantonese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Tres Hermanas Davis',"
+,,,,,,,,,"address: '805 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Tres+Hermanas+Davis/@38.5438786,-121.7409581,17z/data=!3m2!4b1!5s0x8085297390eb888b:0x3118b368b31b314e!4m6!3m5!1s0x8085297393fc4803:0x66bdb5ad380a094f!8m2!3d38.5438744!4d-121.7383832!16s%2Fg%2F1tdx4btj?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Mexican Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Preethi Indian Cuisine',"
+,,,,,,,,,"address: '715 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Preethi+Indian+Cuisine/@38.5436743,-121.74189,17z/data=!3m1!4b1!4m6!3m5!1s0x808529739db27109:0x53ecf3d01d9ff620!8m2!3d38.5436701!4d-121.7393151!16s%2Fg%2F113j086pw?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Indian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Blaze Pizza',"
+,,,,,,,,,"address: '212 F St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Blaze+Pizza/@38.5439134,-121.7424005,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973796c76f3:0x94d685802d816550!8m2!3d38.5439092!4d-121.7398256!16s%2Fg%2F11b7q8qx_j?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Pizza Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Sharetea',"
+,,,,,,,,,"address: '208 F St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Sharetea/@38.5438176,-121.7424383,17z/data=!3m2!4b1!5s0x808529737743b09f:0xa801d9085d4f5c09!4m6!3m5!1s0x8085290bc0d45a05:0x2dfcb798dde2d9e2!8m2!3d38.5438134!4d-121.7398634!16s%2Fg%2F11bwyvhj33?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bubble Tea Store'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'The Posh Bagel',"
+,,,,,,,,,"address: '206 F St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/The+Posh+Bagel/@38.5437533,-121.7424066,17z/data=!3m2!4b1!5s0x808529737743b09f:0xa801d9085d4f5c09!4m6!3m5!1s0x808529737a218c35:0xb9f8aa7cdefa37e3!8m2!3d38.5437491!4d-121.7398317!16s%2Fg%2F1td42qbh?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bagel Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Tasty Pot Davis',"
+,,,,,,,,,"address: '707 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Tasty+Pot+Davis/@38.5437018,-121.7421711,16z/data=!3m1!4b1!4m6!3m5!1s0x80852900723900b3:0xebe05173f05fc4d0!8m2!3d38.5436976!4d-121.7395962!16s%2Fg%2F11lttlttc4?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Hot Pot Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Village Bakery',"
+,,,,,,,,,"address: 'Chamber of Commerce, 814 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Village+Bakery/@38.5435822,-121.7409575,17z/data=!3m2!4b1!5s0x80852973bda97913:0xabf1150aaf31c14b!4m6!3m5!1s0x808529739762967b:0x4d05fad7add8d240!8m2!3d38.543578!4d-121.7383826!16s%2Fg%2F1tg9nc15?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bakery'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Tim's Kitchen"","
+,,,,,,,,,"address: '808 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Tim's+Kitchen/@38.543562,-121.7410686,16z/data=!3m2!4b1!5s0x80852973bda97913:0xabf1150aaf31c14b!4m6!3m5!1s0x8085292b89eb2b31:0x3bb2bcbce23b3e29!8m2!3d38.5435578!4d-121.7384937!16s%2Fg%2F11k_m5nb3q?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chinese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Pachamama Coffee Davis',"
+,,,,,,,,,"address: '130 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Pachamama+Coffee+Davis/@38.5435264,-121.7412767,17z/data=!3m2!4b1!5s0x80852973bda97913:0xabf1150aaf31c14b!4m6!3m5!1s0x8085297322ca2621:0x9818afc5d9d4a48e!8m2!3d38.5435222!4d-121.7387018!16s%2Fg%2F1pty0gkdy?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Coffee Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Tommy J's Grill & Catering"","
+,,,,,,,,,"address: '726 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Tommy+J's+Grill+%26+Catering/@38.5434111,-121.7415527,17z/data=!3m1!4b1!4m6!3m5!1s0x808529739eb69bdd:0xed861d268e6d723d!8m2!3d38.5434069!4d-121.7389778!16s%2Fg%2F1tf6gw37?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Froggy's"","
+,,,,,,,,,"address: '726 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Froggy's/@38.5434064,-121.7415568,17z/data=!3m1!4b1!4m6!3m5!1s0x808529739eb69bdd:0x174d073b048699d0!8m2!3d38.5434022!4d-121.7389819!16s%2Fg%2F1trpr03h?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: ''
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Falafel Corner',"
+,,,,,,,,,"address: '720 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Falafel+Corner/@38.5434267,-121.7417349,16z/data=!3m1!4b1!4m6!3m5!1s0x80852958ef65b403:0x9a520ffaed5514e6!8m2!3d38.5434225!4d-121.73916!16s%2Fg%2F11v0cvw8nz?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Mediterranean Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Paesanos',"
+,,,,,,,,,"address: '139 G St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Paesanos/@38.5433245,-121.7416091,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973a2664891:0xb7e382a8c2bcc31!8m2!3d38.5433203!4d-121.7390342!16s%2Fg%2F1v2gdzxx?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Italian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Teaspoon Davis Boba Cafe',"
+,,,,,,,,,"address: '110 F St Suite D, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Teaspoon+Davis+Boba+Cafe/@38.5426925,-121.7420234,17z/data=!3m1!4b1!4m6!3m5!1s0x8085297307e99a07:0xf27fc612b0a0d950!8m2!3d38.5426883!4d-121.7394485!16s%2Fg%2F11f7ftmnn8?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Bubble Tea Store'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Starbucks',"
+,,,,,,,,,"address: '623 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Starbucks/@38.5435963,-121.7428459,17z/data=!3m1!4b1!4m6!3m5!1s0x808529737179e2a1:0xf8997ce762887c20!8m2!3d38.5435921!4d-121.740271!16s%2Fg%2F1tf_193_?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Coffee Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Icekrimski Cafe',"
+,,,,,,,,,"address: '618 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Icekrimski+Cafe/@38.5432762,-121.7429257,17z/data=!3m1!4b1!4m6!3m5!1s0x808529736e425e23:0xf2de806b16f56e0!8m2!3d38.543272!4d-121.7403508!16s%2Fg%2F1x6q1zzd?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Ice Cream Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: ""Mishka's Cafe"","
+,,,,,,,,,"address: '610 2nd St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': ""https://www.google.com/maps/place/Mishka's+Caf%C3%A9/@38.543143,-121.7431597,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973450c4fd7:0x32fc8bd3c005ee91!8m2!3d38.5431388!4d-121.7405848!16s%2Fg%2F1td3ltn7?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D"","
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Cafe'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Uniboil ',"
+,,,,,,,,,"address: '132 E St #260, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Uniboil+%E7%85%AE%E9%81%93/@38.5428972,-121.743115,17z/data=!3m2!4b1!5s0x8085297314681fad:0x70b03fe475d6b340!4m6!3m5!1s0x808529736cb02df9:0xd2f54d2ead26cb28!8m2!3d38.542893!4d-121.7405401!16s%2Fg%2F11d_w6bq85?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Asian Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'T4 Davis',"
+,,,,,,,,,"address: '132 E St ste. 190, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/T4+Davis/@38.5428552,-121.7430969,17z/data=!3m2!4b1!5s0x8085297314681fad:0x70b03fe475d6b340!4m6!3m5!1s0x80852973149a97f3:0x90cdc2c602ab26e5!8m2!3d38.542851!4d-121.740522!16s%2Fg%2F11dxjjkxr1?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Cafe'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Zen Toro Japanese Bistro',"
+,,,,,,,,,"address: '132 E St #100, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Zen+Toro+Japanese+Bistro/@38.5428418,-121.743352,17z/data=!3m2!4b1!5s0x8085297314681fad:0x70b03fe475d6b340!4m6!3m5!1s0x8085297313856af7:0xce34e68c8a332ae9!8m2!3d38.5428376!4d-121.7407771!16s%2Fg%2F1vd3w03t?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Japanese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'The Hotdogger',"
+,,,,,,,,,"address: '129 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/The+Hotdogger/@38.5427778,-121.7437153,17z/data=!3m1!4b1!4m6!3m5!1s0x80852973408fe165:0x5fcd44ddafed70f9!8m2!3d38.5427736!4d-121.7411404!16s%2Fg%2F11c5s5_qsm?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Hot Dog Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Davis Noodle City',"
+,,,,,,,,,"address: '129 E St #1d, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Davis+Noodle+City/@38.5426634,-121.7439889,17z/data=!3m1!4b1!4m6!3m5!1s0x808529733f508183:0x1a302b4ce41f0cf3!8m2!3d38.5426592!4d-121.741414!16s%2Fg%2F1tdx4btg?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Chinese Restaurant'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Davis Creamery',"
+,,,,,,,,,"address: '113 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Davis+Creamery/@38.5424856,-121.7436097,17z/data=!3m2!4b1!5s0x808529733c2df24d:0x6e17a5e51b3d1837!4m6!3m5!1s0x80852963f093ff8f:0x8bae2500b1dede8!8m2!3d38.5424814!4d-121.7410348!16s%2Fg%2F1tf7gx4h?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Ice Cream Shop'
+,,,,,,,,,"},"
+,,,,,,,,,{
+,,,,,,,,,"name: 'Yuchan Shokudo',"
+,,,,,,,,,"address: '109 E St, Davis, CA 95616',"
+,,,,,,,,,"Google Map Link': 'https://www.google.com/maps/place/Yuchan+Shokudo+(formerly+Yakitori+Yuchan)/@38.5424029,-121.7435939,17z/data=!3m2!4b1!5s0x808529733c2df24d:0x6e17a5e51b3d1837!4m6!3m5!1s0x808529733dbf7f5b:0x9e235fc2a7dfe725!8m2!3d38.5423987!4d-121.741019!16s%2Fg%2F11b6_48x2y?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D',"
+,,,,,,,,,"rating: '',"
+,,,,,,,,,type: 'Japanese Restaurant'
+,,,,,,,,,}

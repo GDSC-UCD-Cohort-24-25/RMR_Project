@@ -2,6 +2,7 @@
 import * as React from 'react';
 import { Header } from '../components/Header';
 import { useRouter } from 'next/navigation';
+import { SearchBar } from '../components/SearchBar';
 
 export default function ContactUsPage() {
     const router = useRouter();
@@ -19,6 +20,7 @@ export default function ContactUsPage() {
                         >
                             Back
                         </button>
+                        <SearchBar />
                             <h1 className="nothing-you-could-do-regular text-6xl font-bold tracking-tighter text-black mb-4"></h1>
                             <div className="w-full h-0.5 bg-black/20 shadow-sm" />
                             {/* Basic Text */}
