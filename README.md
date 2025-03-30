@@ -17,6 +17,7 @@ On Linux
 - npm install @vis.gl/react-google-maps (google maps for vite + react)
   - or try npm install @react-google-maps/api (for react)
 - npm install react-icons (for search bar)
+- npm install papaparse (csv parser)
 
 # Deployment
 First, run the development server:
