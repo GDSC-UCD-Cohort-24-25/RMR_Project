@@ -1,7 +1,9 @@
+'use client';
 import * as React from 'react';
 import { NavButton } from './components/NavButton';
 import { RestaurantList } from './components/RestaurantList';
 import { Header } from './components/Header';
+import { SearchBar } from './components/SearchBar';
 
 
 export default function RestaurantPage() {
@@ -15,6 +17,10 @@ export default function RestaurantPage() {
           </h1>
           <div className="w-full h-0.5 bg-black/20 shadow-sm" />
         </div>
+        {/* Search Bar */}
+        <SearchBar style={{
+          position: 'relative'
+        }}/>
 
         {/* Restaurant list */}
         <section className="w-full max-w-6xl mt-1">

@@ -14,12 +14,6 @@ export const SearchBar = () => {
         setIsHovered(false);
     }
 
-    const fetchData = (value) => {
-        fetch("/data/restaurantData.txt") {
-            .then((response))
-        }
-    }
-
     return (
     <div 
         className="background-color-white width-100% border-radius:10px height-2.5rem padding-0 15px box-shadow: 0px 0px 8px #ddd display-flex align-items"
