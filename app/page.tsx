@@ -1,7 +1,7 @@
 import * as React from 'react';
-import { NavButton } from '../components/NavButton';
-import { RestaurantList } from '../components/RestaurantList';
-import { Header } from '../components/Header';
+import { NavButton } from './components/NavButton';
+import { RestaurantList } from './components/RestaurantList';
+import { Header } from './components/Header';
 
 
 export default function RestaurantPage() {
