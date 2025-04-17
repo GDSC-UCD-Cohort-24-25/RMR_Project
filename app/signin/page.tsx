@@ -15,7 +15,7 @@ export default function SignInPage() {
       <div className="flex flex-col items-center">
       <button
         className="mt-[-10px] ml-[8px] text-base text-black hover:text-lime-800 transition-colors"
-        onClick={() => router.back()}
+        onClick={() => router.push('/')}
       >
         Back
       </button>
