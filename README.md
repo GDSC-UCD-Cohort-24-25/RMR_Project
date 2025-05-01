@@ -19,6 +19,14 @@ On Linux
 - npm install react-icons (for search bar)
 - npm install papaparse (csv parser)
 
+On MacOS
+- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+- brew update
+- brew install node
+- node -v
+- npm -v
+- (Then input all the commands from "On Linux")
+
 # Deployment
 First, run the development server:
 

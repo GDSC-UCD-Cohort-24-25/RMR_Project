@@ -16,7 +16,7 @@ export default function ContactUsPage() {
                         <div className="w-full max-w-4xl text-center">
                         <button
                             className="mt-[-10px] ml-[8px] text-base text-black hover:text-lime-800 transition-colors"
-                            onClick={() => router.back()}
+                            onClick={() => router.push('/')}
                         >
                             Back
                         </button>
