@@ -60,11 +60,7 @@ export const restaurants = [
     rating: 4.2,
     type: "Pizza",
     menuAvailable: true,
-<<<<<<< HEAD
     imageUrl: "https://theaggie.org/wp-content/uploads/2021/05/bodburger_fe_MARKUS_KAEPPELI-1.jpg",
-=======
-    imageUrl: ""
->>>>>>> 470fdf77faf8e641e72565ae07ae496a9adde618
   },
   {
     id: '8',
