@@ -75,7 +75,7 @@ export const restaurants = [
     rating: "4.7/5",
     address: "403 3rd St, Davis, CA 95616",
     menuAvailable: true,
-    imageUrl: "https://s3-media0.fl.yelpcdn.com/bphoto/bHoVxsH8KvLMfJJHAGDBow/348s.jpg",
+    imageUrl: "https://theaggie.org/wp-content/uploads/2021/05/bodburger_fe_MARKUS_KAEPPELI-1.jpg",
   },
   {
     id: '8',
